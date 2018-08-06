@@ -1,0 +1,13 @@
+Senha root do mysql 
+
+Usuario: root 
+Senha: !Kaq!XhINr
+
+Database do wordpress: AouDV_wps
+Usuario : dWpdPusr
+Senha : QHE5YYTzDu
+
+Usuario wordppress : 
+
+Usuario wp : adminwp
+Senha : fhh^j1X93KNg@30xFK
